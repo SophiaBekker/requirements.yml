@@ -1,1 +1,40 @@
 ---
+- summary:
+Поиск товара по ключевому слову
+  status : pass 
+
+- summary:
+Фильтрация товаров по категории
+  status : pass
+
+- summary: 
+Просмотр детальной информации о товаре
+  status : pass
+
+- summary:
+Добавление товара в корзину
+  status : pass
+
+- summary: 
+Просмотр содержимого корзины
+  status : pass
+
+- summary: 
+Проверка мобильной версии сайта
+  status : fail
+
+- summary:
+Тестирование совместимости с различными браузерами
+  status : fail
+
+- summary: 
+Тестирование производительности
+  status : fail 
+
+- summary:
+Проверка безопасности сайта
+  status : fail
+
+- summary:
+Просмотр товаров на различных устройствах
+  status : fail
